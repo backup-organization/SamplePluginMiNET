@@ -1,0 +1,23 @@
+2020-12-04 14:06:36,797 [1] INFO  MiNET.Console.Startup - 
+ __   __  ___   __    _  _______  _______ 
+|  |_|  ||   | |  |  | ||       ||       |
+|       ||   | |   |_| ||    ___||_     _|
+|       ||   | |       ||   |___   |   |  
+|       ||   | |  _    ||    ___|  |   |  
+| ||_|| ||   | | | |   ||   |___   |   |  
+|_|   |_||___| |_|  |__||_______|  |___|  
+
+2020-12-04 14:06:36,810 [1] INFO  MiNET.Utils.Config - Trying to load config-file C:\Users\antoi\OneDrive\Documents\MiNET\plugins\bin\server.antoi.conf
+2020-12-04 14:06:36,810 [1] INFO  MiNET.Utils.Config - Trying to load config-file C:\Users\antoi\OneDrive\Documents\MiNET\plugins\bin\server.conf
+2020-12-04 14:06:36,810 [1] INFO  MiNET.Utils.Config - Loading config-file C:\Users\antoi\OneDrive\Documents\MiNET\plugins\bin\server.conf
+2020-12-04 14:06:36,815 [1] INFO  MiNET.Console.Startup - Starting...
+2020-12-04 14:06:36,837 [1] INFO  MiNET.MiNetServer - Initializing...
+2020-12-04 14:06:36,838 [1] INFO  MiNET.MiNetServer - Loading plugins...
+2020-12-04 14:06:36,843 [1] INFO  MiNET.MiNetServer - Plugins loaded!
+2020-12-04 14:06:36,864 [1] WARN  MiNET.Worlds.AnvilWorldProvider - No level.dat found at ...\plugins\worlds\Phain\level.dat. Creating empty.
+2020-12-04 14:06:38,535 [1] INFO  MiNET.Worlds.Level - World pre-cache 1257 chunks completed in 1266ms
+2020-12-04 14:06:38,568 [1] INFO  MiNET.MiNetServer - Server open for business on port 19132 ...
+2020-12-04 14:06:48,555 [122] WARN  MiNET.Worlds.Level - Unloaded 12 chunks, 1245 chunks remain cached
+2020-12-04 14:08:52,527 [1] INFO  MiNET.Worlds.Level - Closed level: Overworld
+2020-12-04 14:08:52,528 [1] INFO  MiNET.MiNetServer - Disabling plugins...
+2020-12-04 14:08:52,528 [1] INFO  MiNET.Net.RakNet.RakConnection - Shutting down...

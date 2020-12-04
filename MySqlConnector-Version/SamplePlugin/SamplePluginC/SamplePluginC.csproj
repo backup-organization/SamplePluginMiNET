@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MiNET" Version="1.0.2191" />
+    <PackageReference Include="MiNET.fnbt" Version="1.0.22" />
+    <PackageReference Include="MySqlConnector" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

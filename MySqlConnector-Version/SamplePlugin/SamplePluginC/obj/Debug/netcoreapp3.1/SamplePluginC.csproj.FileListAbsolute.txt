@@ -1,0 +1,9 @@
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\bin\Debug\netcoreapp3.1\SamplePluginC.deps.json
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\bin\Debug\netcoreapp3.1\SamplePluginC.dll
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\bin\Debug\netcoreapp3.1\SamplePluginC.pdb
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\obj\Debug\netcoreapp3.1\SamplePluginC.csprojAssemblyReference.cache
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\obj\Debug\netcoreapp3.1\SamplePluginC.AssemblyInfoInputs.cache
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\obj\Debug\netcoreapp3.1\SamplePluginC.AssemblyInfo.cs
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\obj\Debug\netcoreapp3.1\SamplePluginC.csproj.CoreCompileInputs.cache
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\obj\Debug\netcoreapp3.1\SamplePluginC.dll
+C:\Users\antoi\source\repos\SamplePluginC\SamplePluginC\obj\Debug\netcoreapp3.1\SamplePluginC.pdb
