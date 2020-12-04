@@ -11,3 +11,6 @@ MySql.Data Version = 1.22.0
 MySqlConnector Version = 1.0.0 (MiNET requests this version.)
 
 To stop the server, just press "ENTER".
+
+You can download the MiNET project from this link if you prefer : https://github.com/NiclasOlofsson/MiNET
+Here are the builds link : https://ci.appveyor.com/project/NiclasOlofsson/MiNET/branch/master/artifacts
